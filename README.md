@@ -1,6 +1,6 @@
 # Avatars
 
-A small, curated collection of neutral headshot images intended for use as **placeholder avatars** in web and application interfaces.
+A small collection of neutral headshot images for use as placeholder avatars.
 
 ## Usage
 
