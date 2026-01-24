@@ -1,0 +1,9 @@
+{
+    "name": "mattkingshott/avatars",
+    "description": "A small collection of neutral headshot images for use as placeholder avatars in development and demo environments.",
+    "type": "library",
+    "license": "UNLICENSED",
+    "require": {
+        "php": ">=7.0"
+    }
+}
