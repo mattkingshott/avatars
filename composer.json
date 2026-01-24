@@ -2,7 +2,7 @@
     "name": "mattkingshott/avatars",
     "description": "A small collection of neutral headshot images for use as placeholder avatars in development and demo environments.",
     "type": "library",
-    "license": "UNLICENSED",
+    "license": "Unlicense",
     "require": {
         "php": ">=7.0"
     }
